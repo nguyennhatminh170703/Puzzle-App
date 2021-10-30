@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bearbackgr">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="510dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/purple_200"
+        android:fontFamily="@font/name"
+        android:gravity="center"
+        android:scrollbars="vertical"
+        android:shadowColor="@color/teal_700"
+        android:text="@string/title_game"
+        android:textAllCaps="true"
+        android:textColor="#BB4D73"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.927"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/buttonplay"
+        android:layout_width="133dp"
+        android:layout_height="102dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.498"
+        app:srcCompat="@drawable/play" />
+
+    <ImageView
+        android:id="@+id/quesButtton"
+        android:layout_width="81dp"
+        android:layout_height="52dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.996"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.955"
+        app:srcCompat="@drawable/queswhite" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

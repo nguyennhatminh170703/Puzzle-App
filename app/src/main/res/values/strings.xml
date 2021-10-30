@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Bearzzle</string>
+    <string name="button_start">START!</string>
+    <string name='intro_game'>
+    Hello everyone, Welcome to my Bearzzle Game. Im Nhat Minh Nguyen. And i created this game to send a message to everyone that we need to protect rare Animal especially Bear. I Hope everyone love this game
+    </string>
+    <string name="title_game">Bearzzle</string>
+    <string name="info_babypanda">
+        <b>baby panda</b> The panda, with its distinctive black and white coat, is adored by the world and considered a national treasure in China. This bear also has a special significance for WWF because it has been our logo since our founding in 1961.
+\nPandas live mainly in temperate forests high in the mountains of southwest China, where they subsist almost entirely on bamboo. They must eat around 26 to 84 pounds of it every day, depending on what part of the bamboo they are eating. They use their enlarged wrist bones that function as opposable thumbs.
+\nA newborn panda is about the size of a stick of butter—about 1/900th the size of its mother—but females can grow up to about 200 pounds, while males can grow up to about 300 pounds as adults. These bears are excellent tree climbers despite their bulk.
+    </string>
+    <string name="info_graybear">
+         <b>brown bear</b> The awe inspiring brown bear lives in the forests and mountains of northern North America, Europe, and Asia. It is the most widely distributed bear in the world.
+The world"s largest brown bears are found in coastal British Columbia and Alaska, and on islands such as Kodiak.
+\nThese omnivorous giants tend to be solitary animals, except for females and their cubs, but at times they do congregate. Dramatic gatherings can be seen at prime Alaskan fishing spots when the salmon swim upstream for summer spawning. In this season dozens of bears may gather to feast on the fish, craving fats that will sustain them through the long winter ahead. In fall a brown bear may eat as much as 90 pounds of food each day, and it may weigh twice as much before hibernation as it will in spring.
+\nBrown bears dig dens for winter hibernation, often holing up in a suitable hillside. Females, or she-bears, den while pregnant and give birth during this winter rest, usually to a pair of cubs. Brown bear cubs nurse on their mother"s milk until spring and stay with her for some two and a half years—so females only reproduce once every three years.
+\nAdult brown bears are powerful, top-of-the-food chain predators, but much of their diet consists of nuts, berries, fruit, leaves, and roots. Bears also eat other animals, from rodents to moose.
+\nDespite their enormous size, brown bears are extremely fast, having been clocked at speeds of 30 miles per hour. They can be dangerous to humans, particularly if they"re surprised or if a person gets between a mother bear and her cubs.
+    </string>
+    <string name="info_panda">
+        <b>chinese panda</b> The panda, with its distinctive black and white coat, is adored by the world and considered a national treasure in China. This bear also has a special significance for WWF because it has been our logo since our founding in 1961.
+\nPandas live mainly in temperate forests high in the mountains of southwest China, where they subsist almost entirely on bamboo. They must eat around 26 to 84 pounds of it every day, depending on what part of the bamboo they are eating. They use their enlarged wrist bones that function as opposable thumbs.
+\nA newborn panda is about the size of a stick of butter—about 1/900th the size of its mother—but females can grow up to about 200 pounds, while males can grow up to about 300 pounds as adults. These bears are excellent tree climbers despite their bulk.
+    </string>
+    <string name="info_polarbear">
+        <b>polar bear</b> The largest bear in the world and the Arctic"s top predator, polar bears are a powerful symbol of the strength and endurance of the Arctic. The polar bear"s Latin name, Ursus maritimus, means "sea bear." It"s an apt name for this majestic species, which spends much of its life in, around, or on the ocean–predominantly on the sea ice. In the United States, Alaska is home to two polar bear subpopulations.
+\nConsidered talented swimmers, polar bears can sustain a pace of six miles per hour by paddling with their front paws and holding their hind legs flat like a rudder. They have a thick layer of body fat and a water-repellent coat that insulates them from the cold air and water.
+        \nPolar bears spend over 50% of their time hunting for food. A polar bear might catch only one or two out of 10 seals it hunts, depending on the time of year and other variables. Their diet mainly consists of ringed and bearded seals because they need large amounts of fat to survive.
+        \nPolar bears rely heavily on sea ice for traveling, hunting, resting, mating and, in some areas, maternal dens. But because of ongoing and potential loss of their sea ice habitat resulting from climate change–the primary threat to polar bears Arctic-wide–polar bears were listed as a threatened species in the US under the Endangered Species Act in May 2008. As their sea ice habitat recedes earlier in the spring and forms later in the fall, polar bears are increasingly spending longer periods on land, where they are often attracted to areas where humans live.
+        \nThe survival and the protection of the polar bear habitat are urgent issues for WWF. In October 2019, the International Union for the Conservation of Nature (IUCN) Polar Bear Specialist Group released a new assessment of polar bear populations showing that the number of polar bear subpopulations experience recent declines has increased to four, with eight populations still being data-deficient. The good news is that five populations are stable while two have been experiencing an upward trend.
+    </string>
+    <string name="info_tibetanbear">
+        <b>tibetan bear</b> Whilst the fur of the bear is essentially black the outer guard hairs give the bear a blue / grey appearance.
+        \nHistorically found mainly on the alpine eastern Tibetan plateau (4,500 to 5,000 metres), in eastern Tibet, western China, Nepal and occasionally in Bhutan.  Remaining bears in the wild seem to be confined to eastern Tibet and to Bhutan.   A sighting was reported on the northern plateau near the historic border between Tibet and China in 2013.  A further confirmed sighting was made in a remote valley in eastern Tibet in June 2019.
+        \nIt lives in mountainous regions at high altitudes close to the tree line.Thought to be very rare.  Listed in Appendix I of CITES and in the USA trade in blue bear specimens or parts is restricted by the Endangered Species Act.
+        \nIt eats Small mammals, particularly pika.  Allegedly will kill and eat livestock and enter nomad dwellings to take food.  Probably also eats vegetation and pine nuts when and where avaialble but little is known about the bears’ diet.
+        \nBehaviour:  Probably the least known and least studied of all brown bear subspecies.  Evidence indicates that the Tibetan blue bear is very shy of human contact and therefore very seldom observed.
+        \nThreats:  Threatened by the use of bear bile in Chinese medicine and by habitat loss and human conflict.
+    </string>
+    <string name="info_redpanda">
+        <b>red panda</b>The red panda is slightly larger than a domestic cat with a bear-like body and thick russet fur. The belly and limbs are black, and there are white markings on the side of the head and above its small eyes. Red pandas are very skillful and acrobatic animals that predominantly stay in trees. Almost 50% of the red panda’s habitat is in the Eastern Himalayas. They use their long, bushy tails for balance and to cover themselves in winter, presumably for warmth. Primarily an herbivore, the name panda is said to come from the Nepali word ‘ponya,’ which means bamboo or plant eating animal.
+    </string>
+    <string name="info_ursidae">
+        <b>sun bear</b>Wandering through a dense forest in southern China, a sun bear comes across a log. He gives it a sniff and then opens his mouth. A nearly ten-inch-long tongue rolls out! Maneuvering the massive tongue under the log, the bear slurps up the tasty insects that crawl beneath until his belly is full.
+        \nSun bears are named for the golden patches of fur on their chests, which some people say resemble a rising sun. While their tongues may be extra-big, sun bears are actually the smallest bear species. Males grow about 5 feet long and weigh up to 150 pounds—that’s about half the size of an adult American black bear.
+        \nThese animals live in wooded areas of Southeast Asia. Strong and agile, sun bears are good at climbing trees. They spend a lot of time in tree canopies and even build "beds" of twigs and leaves on the branches to sleep in.
+        \nSun bears chow down insects, leaves, lizards, and berries. But the sun bear’s favorite snack is honey. To get the treat, they rip open beehives with their sharp claws. Then the bears use their superlong tongues to extract the honey inside, often gobbling up bees with the sticky sweet. Luckily they don’t seem bothered by bee stings. That’s nothing to stick your tongue out at.
+    </string>
+</resources>
